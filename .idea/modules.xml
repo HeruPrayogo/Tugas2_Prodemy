@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nama gen-nomorgen-java-basic.iml" filepath="$PROJECT_DIR$/nama gen-nomorgen-java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gen-nomorgen-java-basic.iml" filepath="$PROJECT_DIR$/gen-nomorgen-java-basic.iml" />
     </modules>
   </component>
 </project>
